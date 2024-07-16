@@ -11,12 +11,13 @@ This software is our final project for the course in Object-Oriented Programming
 - `Abstracted` complex tasks such as inventory tracking and report preparation to present users with a streamlined interface that focuses on essential information.
 - Integrated `SQLite` as the database management system to efficiently store and manage application data.
 
-- Home Page
+## Software GUI
+### Home Page
 ![image](https://github.com/user-attachments/assets/e3910e1a-ebc5-43a8-a85b-5467cd37178d)
-- Student View Page
+### Student View Page
 ![image](https://github.com/user-attachments/assets/96a6f7fb-ff11-4e08-9abd-33699add019c)
-- Pharmacist Login Page
+### Pharmacist Login Page
 ![image](https://github.com/user-attachments/assets/048c44d6-6917-47b9-b2da-81deb485c45a)
-- Pharmacist View Page
+### Pharmacist View Page
 ![image](https://github.com/user-attachments/assets/838f0658-8124-4fb6-805a-cd3bc7b34d6a)
 
