@@ -10,3 +10,12 @@ This software is our final project for the course in Object-Oriented Programming
 - Implemented interfaces to enable versatile generation of various report and analytics types, utilizing `polymorphism` to allow methods to handle objects differently based on their class or data type.
 - `Abstracted` complex tasks such as inventory tracking and report preparation to present users with a streamlined interface that focuses on essential information.
 - Integrated `SQLite` as the database management system to efficiently store and manage application data.
+
+- Home Page
+![img.png](img.png)
+- Student View Page
+![img_1.png](img_1.png)
+- Pharmacist Login Page
+![img_2.png](img_2.png)
+- Pharmacist View Page
+![img_3.png](img_3.png)
