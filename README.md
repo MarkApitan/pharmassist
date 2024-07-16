@@ -1,5 +1,6 @@
 # PharmAssist
-A software application that assists healthcare facilities at PUP College of Engineering and Architecture in managing pharmaceutical stocks efficiently. Using Python's OOP principles with Tkinter GUI and SQLite database, it offers real-time inventory tracking, batch tracking, and role-based access control. This system reduces errors, saves time, ensures regulatory compliance, and provides clear visibility into inventory and consumption.
+A software application that assists healthcare facilities at PUP College of Engineering and Architecture in managing pharmaceutical stocks efficiently. 
+Using Python's OOP principles with Tkinter GUI and SQLite database, it offers real-time inventory tracking, batch tracking, and role-based access control. This system reduces errors, saves time, ensures regulatory compliance, and provides clear visibility into inventory and consumption.
 
 This software is our final project for the course in Object-Oriented Programming under Professor Engr. Cansino.
 
