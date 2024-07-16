@@ -21,3 +21,10 @@ This software is our final project for the course in Object-Oriented Programming
 ### Pharmacist View Page
 ![image](https://github.com/user-attachments/assets/838f0658-8124-4fb6-805a-cd3bc7b34d6a)
 
+## Improvements
+- Make the code easier to read and understand.
+- Automatically generate Item IDs.
+- Fix bugs, like showing expired items in red instead of blue.
+
+## Takeaway
+Overall, I think our software looks great, especially considering it's our first project and we built it in just two days. We've learned a lot from this experience, and there's still plenty of room for improvement.
