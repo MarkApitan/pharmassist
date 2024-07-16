@@ -12,10 +12,11 @@ This software is our final project for the course in Object-Oriented Programming
 - Integrated `SQLite` as the database management system to efficiently store and manage application data.
 
 - Home Page
-![img.png](img.png)
+![image](https://github.com/user-attachments/assets/e3910e1a-ebc5-43a8-a85b-5467cd37178d)
 - Student View Page
-![img_1.png](img_1.png)
+![image](https://github.com/user-attachments/assets/96a6f7fb-ff11-4e08-9abd-33699add019c)
 - Pharmacist Login Page
-![img_2.png](img_2.png)
+![image](https://github.com/user-attachments/assets/048c44d6-6917-47b9-b2da-81deb485c45a)
 - Pharmacist View Page
-![img_3.png](img_3.png)
+![image](https://github.com/user-attachments/assets/838f0658-8124-4fb6-805a-cd3bc7b34d6a)
+
